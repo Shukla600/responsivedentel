@@ -1,0 +1,146 @@
+@media(min-width:768px){
+    .slider_text .text1 span {
+        font-size: 30px;
+        
+    }
+    .slider_text .text2 span {
+        font-size: 35px;
+      
+    }
+    .slider_text .text1 span{
+        font-size: 26px;
+    }
+    .slider_text .text2 span{
+        font-size: 30px;
+    }
+    .custom_btn {
+        display: block;
+      
+        padding-bottom: 20px;
+    }
+    .main_header {
+        padding: 10px 0px;
+    }
+    .service_img {
+        position: absolute;
+        left: 10px;
+        top: 0;
+        width: 53%;
+       
+    }
+    .footer_logo {
+        width: 72% !important;
+    }
+    
+    .f-center_part h5, .fright_part h5 {
+        font-size: 26px;
+    }
+    .footer_img p {
+        margin-left: 12px;
+        font-size: 11px;
+    }
+    .img_text p, .fright_part p {
+        font-size: 14px;
+        font-weight: 400;
+    }
+.centerpart_img img {
+    width: 37%;
+    height: 30%;
+}
+.form-control{
+    font-size: 19px;
+}
+}
+@media(max-width:767px){
+    .mobile_toplogo{
+        display: none!important;
+    }
+   .mbtop_info{
+    
+   }
+    .mobile_logo{
+        display: inline-block!important;
+    }
+    .mobile_logo img{
+        width:150px!important;
+    }
+    .info p {
+        font-size: 11px;
+       
+    }
+    .top_header {
+       
+    }
+    .main_header {
+        padding: 5px 0px;
+    }
+    .slider_img img{
+      display: none !important;
+    }
+    .slider_text{
+        text-align: center;
+        padding:50px 0px 70px 0px;
+    }
+    .service_img {
+        position: inherit;
+        width: 80%;
+        margin: auto;
+        left:0;
+        margin-left: 15%;
+        margin-bottom: 20px;
+    }
+    .mbservice_heading h6,.mbservice_heading p{
+        text-align: center;
+    }
+   .mbservice_heading h6{
+        font-size: 35px;
+    } 
+    .service_text{
+        text-align: center;
+    }
+    .mb_price{
+        margin: auto;
+    }
+    
+    .primary_header {
+        text-align: center;
+    }
+    .custom_btn {
+        display: block;
+        margin: auto;
+        padding-bottom: 20px;
+    }
+}
+@media(max-width:575px){
+    .top_header {
+        display: none;
+    }
+    .primary_header {
+        text-align: start;
+    }
+    .custom_btn {
+        display: inline-block;
+    
+        padding-bottom: 20px;
+    }
+
+    .mbtop_info {
+        display: block !important;
+        margin: 15px 0px;
+    }
+    .icon_box {
+        margin-left:0;
+    }
+    .info h6, .info p {
+      color: #fff;
+    }
+    .slider_text .text1 span{
+        font-size: 26px;
+    }
+    .slider_text .text2 span{
+        font-size: 30px;
+    }
+}
+@media(max-width:425px){
+  
+}
