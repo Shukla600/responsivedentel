@@ -540,7 +540,9 @@ line-height: 30px;
     
 margin-right: 5px;
 }
-
+.img_box img{
+    width:100%;
+}
 .img_box ul li a{
     
 }
